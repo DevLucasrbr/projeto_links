@@ -15,11 +15,11 @@
 }
 
 .light {
-  --text-color: black;
+  --text-color: rgb(219, 22, 22);
   --bg-url: url(./assets/bg-mobile-light.jpg);
-  --stroke-color: rgba(0, 0, 0, 0.5);
-  --surface-color: rgba(0, 0, 0, 0.02);
-  --surface-color-hover: rgba(0, 0, 0, 0.2);
+  --stroke-color: rgba(35, 34, 34, 0.5);
+  --surface-color: rgba(2, 2, 2, 0.02);
+  --surface-color-hover: rgba(3, 3, 3, 0.2);
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/sun.svg)
 
